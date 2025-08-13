@@ -14,4 +14,4 @@ A collection of beginner-to-intermediate projects where I focused on improving s
 
 ## 📌 Why This Repo Exists
 
-This repository organizes my mini frontend projects built with HTML, CSS, and JavaScript, making it easy for others — including recruiters and fellow developers — to explore my progress, learn from it, or give feedback.
+This repository organizes my mini frontend projects built with HTML, CSS, and JavaScript, making it easy for others — including recruiters and fellow developers — to explore my progress or give feedback.
